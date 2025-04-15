@@ -12,5 +12,3 @@ const VueTrend = VueTrendComponent as typeof VueTrendComponent & { install: Plug
 VueTrend.install = install
 
 export default VueTrend
-
-// export type { Boundary, InputData } from './components/VueTrend.vue';
