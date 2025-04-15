@@ -17,7 +17,7 @@
 
 ## Installation
 
-```shell
+```bash
 npm i @hotdogee/vue3-trend
 ```
 
