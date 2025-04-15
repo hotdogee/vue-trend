@@ -4,7 +4,7 @@
   <h1>Vue 3 Trend</h1>
   <p>🌈 Simple, elegant spark lines for Vue.js</p>
   <br>
-  <a href="https://www.npmjs.org/package/vue3-trend"><img src="https://img.shields.io/npm/v/vue3-trend.svg?style=flat" alt="npm"></a>
+  <a href="https://www.npmjs.com/package/@hotdogee/vue3-trend"><img src="https://img.shields.io/npm/v/@hotdogee/vue3-trend.svg?style=flat" alt="npm"></a>
   <img src="https://img.shields.io/badge/vue-^3.3-4fc08d.svg?colorA=2c3e50&style=flat" alt="vue">
 </div>
 
