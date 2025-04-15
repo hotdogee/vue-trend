@@ -18,13 +18,13 @@
 ## Installation
 
 ```shell
-npm i vue3-trend
+npm i @hotdogee/vue3-trend
 ```
 
 ## Usage
 
 ```js
-import VueTrend from 'vue3-trend'
+import VueTrend from '@hotdogee/vue3-trend'
 ```
 
 _vue template_
