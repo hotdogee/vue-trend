@@ -9,6 +9,7 @@
 
 - 💚 Vue 3 Composition API
 - 🔥 Written in TypeScript
+- ✨ See Also: [vue3-bars](https://github.com/hotdogee/vue3-bars)
 
 ## 🚀 Live
 
