@@ -41,6 +41,8 @@ _vue template_
 
 ## Lineage
 
+All credits go to these open-source works and resources 🙏
+
 - Rewritten for Vue 3 in TypeScript
 - Forked from [vue-trend](https://github.com/QingWei-Li/vue-trend) - 🌈 Simple, elegant spark lines (Vue 2)
 - Inspired by [unsplash/react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines (React)
@@ -80,9 +82,17 @@ This means that, among other properties, you can use:
 
 ## Development
 
-```sh
+```bash
 npm i
 npm run dev
+# open localhost:5173
+```
+
+### Documentation Site
+
+```bash
+npm i
+npm run docs:dev
 # open localhost:5173
 ```
 
