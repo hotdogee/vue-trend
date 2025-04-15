@@ -3,25 +3,25 @@
   <br>
   <h1>Vue 3 Trend</h1>
   <p>🌈 Simple, elegant spark lines for Vue.js</p>
-  <br>
   <a href="https://www.npmjs.com/package/@hotdogee/vue3-trend"><img src="https://img.shields.io/npm/v/@hotdogee/vue3-trend.svg?style=flat" alt="npm"></a>
   <img src="https://img.shields.io/badge/vue-^3.3-4fc08d.svg?colorA=2c3e50&style=flat" alt="vue">
 </div>
 
-<br>
+- 💚 Vue 3 Composition API
+- 🔥 Written in TypeScript
 
-## Live
+## 🚀 Live
 
 - [Demo](https://vue3-trend.hanl.in/)
 - [Playground](https://stackblitz.com/~/github.com/hotdogee/vue3-trend?file=src/App.vue)
 
-## Installation
+## 📦 Installation
 
 ```bash
 npm i @hotdogee/vue3-trend
 ```
 
-## Usage
+## 🛠️ Usage
 
 ```js
 import VueTrend from '@hotdogee/vue3-trend'
@@ -39,7 +39,7 @@ _vue template_
 </VueTrend>
 ```
 
-## Lineage
+## 🧬 Lineage
 
 All credits go to these open-source works and resources 🙏
 
@@ -47,7 +47,7 @@ All credits go to these open-source works and resources 🙏
 - Forked from [vue-trend](https://github.com/QingWei-Li/vue-trend) - 🌈 Simple, elegant spark lines (Vue 2)
 - Inspired by [unsplash/react-trend](https://github.com/unsplash/react-trend) - 📈 Simple, elegant spark lines (React)
 
-## Props
+## ⚙️ Props
 
 | Name              | Type           | Default     | Description                                                                                                                                                                                                                                       | Example                                                                      |
 | ----------------- | -------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -67,7 +67,7 @@ All credits go to these open-source works and resources 🙏
 | max               | Number         | `-Infinity` | Specify max value                                                                                                                                                                                                                                 | -                                                                            |
 | min               | Number         | `Infinity`  | Specify min value, This is useful if you have multiple lines.                                                                                                                                                                                     | -                                                                            |
 
-#### SVG Props
+#### 🖼️ SVG Props
 
 By default, all properties not recognized by Vue Trend will be delegated to the SVG.
 
@@ -80,7 +80,7 @@ This means that, among other properties, you can use:
 - `strokeDasharray` to create a dashed line, and
 - `strokeDashoffset` to control where the dashes start.
 
-## Development
+## 👨‍💻 Development
 
 ```bash
 npm i
@@ -88,7 +88,7 @@ npm run dev
 # open localhost:5173
 ```
 
-### Documentation Site
+### 📚 Documentation Site
 
 ```bash
 npm i
@@ -96,6 +96,6 @@ npm run docs:dev
 # open localhost:5173
 ```
 
-## License
+## 📝 License
 
 MIT
